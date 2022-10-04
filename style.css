@@ -1,0 +1,48 @@
+
+
+html {
+    font-size: 35px;
+    font-family: "Alkalami", serif; }
+    
+
+    p {
+        color: black;
+        width: 500px;
+        border: 0px solid black;
+        
+      }
+      
+
+      body {background-color: rgb(200, 80, 255);
+            font-family: 'Alkalami', serif;
+            
+     }
+
+    /* div { */
+        /* display: flex; */
+        /* justify-content: center; */
+      /* } */
+
+    h1 {
+        background-color: #2b0447;
+        font-family: 'Alkalami', serif;
+    
+         }
+
+
+    h2  {
+        font-family: 'Alkalami', serif;
+        justify-content: center;
+    }
+      div {
+        background-color: #8f34b7;
+        font-family: 'Alkalami', serif;
+      }
+
+
+
+    
+
+  
+
+  
