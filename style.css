@@ -1,3 +1,25 @@
+.flexbox-container{
+    display:  flex;
+
+}
+ 
+.flexbox-item {
+    width:200px;
+    margin: 10px;
+    border: 3px black;
+    background-color: black; 
+
+
+}
+
+.flexbox-project-1 {
+    min-height: 100px;
+}
+ 
+ .flexbox-project-2 {
+    min-height: 200px;
+
+ }
 
  a {
     text-decoration: none;
