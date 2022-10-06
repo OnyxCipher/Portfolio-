@@ -1,7 +1,7 @@
 # Portfolio-
 ## Project Schedule
 
-| https://github.com/OnyxCipher/Portfolio- |
+| https://onyxcipher.github.io/ |
 
 |  Day | Deliverable | Status
 |---|---| ---|
