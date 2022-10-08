@@ -1,3 +1,4 @@
+
 .flexbox-container{
     display:  flex;
 
@@ -29,8 +30,10 @@
 
 html {
     font-size: 35px;
-    font-family: "Alkalami", serif; }
+    font-family: 'Alkalami', serif; 
     
+}
+
 
     p {
         color: black;
@@ -39,11 +42,15 @@ html {
         
       }
       
-
-      body {background-color: rgb(200, 80, 255);
-            font-family: 'Alkalami', serif;
+      @media only screen and (min-width: 768px) {
+      body {
+        background-color: rgb(200, 80, 255);
+            font-family: 'Alkalami', serif;    
+              
             
      }
+      }
+    
 
     div { 
         display: flex; 
@@ -55,21 +62,22 @@ html {
         font-family: 'Alkalami', serif;
     
          }
-
+        
 
     h2  {
         font-family: 'Alkalami', serif;
         justify-content: center;
-    }
-      div {
-        background-color: #8f34b7;
-        font-family: 'Alkalami', serif;
-      }
 
+        
+            
+          
+    }
+      
 
 
     
+      
+      
 
-  
 
-  
+     
